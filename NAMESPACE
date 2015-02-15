@@ -1,0 +1,3 @@
+useDynLib(icamix)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
